@@ -1,0 +1,11 @@
+import streamlit as st
+st.title("Hola mundo")
+st.write("Hola mundo")
+st.header("Primer Encabezado")
+st.subheader("Primer subencabezado")
+st.write("Texto bajo el primer encabezado")
+st.header("Segundo Encabezado")
+st.subheader("Segundo subencabezado")
+st.write("Texto bajo el segundo encabezado")
+st.markdown("*Itálica*, **Negrita**, [UCR](https://www.ucr.ac.cr/)")
+st.write("hey you")
